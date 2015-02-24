@@ -1,0 +1,20 @@
+.test1 {
+	background-color: yellow;
+}
+.test2 {
+ 	background-color: gray;
+ 	position: relative;
+ 	top: -20px;
+ 	left: 100px;
+ 	width: 480px;
+ 	border-radius: 15px;
+ }
+ .reminder {
+ 	background-color: red;
+ 	border-radius: 5px;
+ 	color: white;
+ 	height: 100px;
+ 	width: 90%;
+ 	text-align: center;
+ 	margin-left: 5%;
+ }
